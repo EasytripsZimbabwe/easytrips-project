@@ -1,0 +1,74 @@
+
+body {
+    
+    
+  }
+  
+/*Sections*/
+
+.main {
+padding-top: 50px;
+ padding-bottom: 90px;
+ background-color:white; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.contact {
+    padding: 100px 0;
+     background: url(images/contact.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+
+    .copyright {
+        padding: 20px 0;
+         background-color:#1C1857; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+        }
+
+    .carousel-inner {
+        background: url(images/background.jpg) center no-repeat fixed;
+        min-height: 650px;  
+      }
+
+      .navbar-transparent {
+        background:rgba(245, 245, 245, 0.5);
+        background-image: none;
+        border-color: rgba(245, 245, 245, 0.5);
+    }
+
+    .carousel-caption {
+        position: initial;
+        margin-top:15%;
+        color:#FED915;
+      }
+
+      h1 span { 
+        background-color: rgba(245, 245, 245, 0.7); 
+    }
+
+      .action
+      {
+          position: absolute;
+          top: 70%;
+          margin-left: 45%;
+         
+          color: #FFF;
+      }
+
+      .booking {
+        padding: 200px 0;
+        
+        }
+    
+        .well{
+            background-color: rgba(255,255,255,0.2); 
+            }
